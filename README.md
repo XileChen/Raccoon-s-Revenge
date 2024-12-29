@@ -13,7 +13,7 @@
 ---
 
 ## Overview
-**Raccoon's Revenge** is a grid-based simulation game where players take control of raccoons and pandas navigating a shared environment. The goal is to implement movement, interactions, and game mechanics that allow the characters to collect trash while avoiding obstacles. The game demonstrates object-oriented programming principles and provides an engaging way to explore Python's capabilities.
+**Raccoon's Revenge** is a grid-based simulation game similar to Rodent's Revenge, where players take control of the player character and interact with raccoons and smart raccoons navigating a shared environment. The goal is to implement movement, interactions, and game mechanics. The score is determined based on the number of trapped raccoons, as well as the maximum number of adjacent recycling bins. The game demonstrates object-oriented programming principles and provides an engaging way to explore Python's capabilities.
 
 ---
 
